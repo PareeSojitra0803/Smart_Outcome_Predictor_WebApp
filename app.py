@@ -149,7 +149,7 @@ The application supports both **Individual Prediction** and **Batch Prediction**
     st.info("""
         1️⃣ Enter Student Details or Upload a CSV Dataset
 
-            ⬇️
+        ⬇️
 
         2️⃣ Data Preprocessing & Feature Engineering
 

@@ -10,7 +10,7 @@ Predict **Course Completion Status** and **Final Student Score** using Machine L
 
 🚀 **Streamlit Web App**
 
-> *(Add your deployed Streamlit link here)*
+> [Smart Outcocme Predictor WebApp](https://smart-outcome-predictor-webapp.streamlit.app/)
 
 ---
 
